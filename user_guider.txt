@@ -1,0 +1,1 @@
+Huong dan su dung cong cu auto split data from multi polygon using python
